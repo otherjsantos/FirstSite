@@ -1,0 +1,31 @@
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+.titulo-principal {
+    font-size: 60px;
+    color: #FFF;
+    background-color: #851944;
+    text-align: center;
+    padding: 25px;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+}
+
+body main {
+    background-color: aliceblue;
+}
+
+.caixa-projeto {
+    background-color: white;
+    font-size: 120%;
+    
+    border: solid 5px black;
+    
+    width: 320px;
+    padding: 15px;
+    
+}
