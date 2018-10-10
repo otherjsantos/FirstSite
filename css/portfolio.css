@@ -27,5 +27,39 @@ body main {
     
     width: 320px;
     padding: 15px;
-    
+}
+
+.navegacao-site{
+    text-align: center;
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+.navegacao-site h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.img-repl a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-indent: -99999px;
+}
+
+.img-repl li {
+    display: inline-block;
+}
+
+.img-git {
+    background-image: url(/img/github.png);
+}
+
+.img-twitter {
+    background-image: url(/img/twitter.png);
+}
+
+.img-linkedin {
+    background-image: url(/img/linkedin.png);
 }
